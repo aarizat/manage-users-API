@@ -29,8 +29,8 @@
 }
 ```
 #### GET https://manage-users-api.herokuapp.com/api/v1/users/<id>
+* Response
 ```
- * Response
 {
     "name": "pedro",
     "last_name": "rodriguez",
