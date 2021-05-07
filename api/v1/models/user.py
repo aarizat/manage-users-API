@@ -3,7 +3,7 @@ Model to represent a user.
 """
 from uuid import uuid4
 
-from models.extensions import db
+from api.v1.extensions import db
 
 
 class User(db.Model):
